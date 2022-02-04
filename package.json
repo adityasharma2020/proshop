@@ -1,0 +1,22 @@
+{
+  "name": "proshop",
+  "version": "1.0.0",
+  "description": "MERN App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityasharma2020/proshop.git"
+  },
+  "author": "Aditya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adityasharma2020/proshop/issues"
+  },
+  "homepage": "https://github.com/adityasharma2020/proshop#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
